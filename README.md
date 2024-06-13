@@ -3,6 +3,7 @@ Este modelo de aplicação móvel fornece uma configuração básica para autent
 
 ## Principais tecnologias usadas
 - JavaScript
+- Node.js
 - React Native
 - Expo
 - React Hook Form 
