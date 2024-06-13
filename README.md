@@ -10,4 +10,4 @@ Este modelo de aplicação móvel fornece uma configuração básica para autent
 - Yup 
 - Firebase
 
-*Observação: Certifique-se de instalar as dependências do projeto usando* `npm install`.
+*Observação: Certifique-se de configurar as credenciais do app Firebase no arquivo localizado em `./src/services/firebase.config.js` e instalar as dependências do projeto usando* `npm install`.
